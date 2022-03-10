@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
 };
 
 Meta.defaultProps = {
-  title: "Welcome To Dhakatopi",
+  title: "Welcome To Deerwalk Mern Class",
   description: "We sell the handcrafted items",
   keywords: "handcrafted items",
 };
